@@ -18,7 +18,7 @@ export class TestComponent implements OnInit {
 
 
     testEnum = {
-      [TestEnum.KEY1]: 'qwe'
+      [TestEnum.KEY1]: 'qwe',
     }
   }
 
